@@ -1,0 +1,2 @@
+# burp_intruder_result_payload
+如何将Burpsuite的intruder的payload导出来，几句python就可以，当利用burpsuite爆破出用户名或者其他关键信息时，可以利用python去摘取。
